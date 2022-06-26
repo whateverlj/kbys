@@ -32,3 +32,11 @@ app亮点
 4、在线播放超级流畅，还支持离线的缓存功能；
 
 5、超级简洁小巧，而且视频资源相当的多，可以快速搜索；
+
+![image](https://github.com/whateverlj/kbys/blob/main/Screenshot_20220625_132552_com.kbys.kbys.jpg)
+![image](https://github.com/whateverlj/kbys/blob/main/Screenshot_20220625_132557_com.kbys.kbys.jpg)
+![image](https://github.com/whateverlj/kbys/blob/main/Screenshot_20220625_132622_com.kbys.kbys.jpg)
+![image](https://github.com/whateverlj/kbys/blob/main/Screenshot_20220625_132911_com.kbys.kbys.jpg)
+
+
+
